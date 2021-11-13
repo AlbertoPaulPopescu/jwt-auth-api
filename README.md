@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Adonis API application
+#Follow tutorial: https://scotch.io/courses/build-a-twitter-clone-with-adonis-and-vue/database-setup
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 

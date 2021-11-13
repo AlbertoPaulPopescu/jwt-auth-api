@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "adonis-api-app",
   "version": "4.1.0",
   "adonis-version": "4.1.0",
@@ -31,28 +30,5 @@
   "devDependencies": {},
   "autoload": {
     "App": "./app"
-=======
-  "name": "try-login",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "@nuxtjs/auth": "^4.5.1",
-    "@nuxtjs/axios": "^5.3.1",
-    "@nuxtjs/pwa": "^3.3.5",
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
-    "vuetify": "^2.5.5"
-  },
-  "devDependencies": {
-    "@nuxtjs/vuetify": "^1.12.1",
-    "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.3.2"
->>>>>>> 2ae00609f480dfe372c6df6d90a0cd448c438bb9
   }
 }
